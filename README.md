@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Dave
-- 👀 I’m interested in A.I
-- 🌱 I’m currently learning Python for Machine learning.
+-  I'm a developer
+- Python | JavaScript | AI
 - 📫 reach me on daveindrd@gmail.com
 - ⚡ Fun fact: water isn't wet
 
